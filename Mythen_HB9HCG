@@ -1,0 +1,53 @@
+Ideensammlung was für einen Vortrag interessant sein könnte von HB9HCG
+
+
+Mythen oder Real?
+-----------------
+
+Mythos 1: DMR verbraucht weniger Leistung von der Batterie als FM
+
+Der Grund dafür soll sein, dass bei DMR nur ein halber Timeslot zur Kommunikation (Tx und Rx) benötigt wird.
+Dem gegenüber steht der Leistungsbedarf für das Aufbereiten des digitalen Audiostreams. Dieser Mythos ist sicherlich auch sehr vom eingesetzten Endgerät abhängig, so gibt es Analagfunkgeräte die einen sogenannten "power saving mode" haben. Dieser Modus schaltet den Empfänger nur kurzzeitg ein. Einen Ansatz zum Vergleich von FM und Digital könnte am ehsten auf dem selben Gerät gemacht werden. Ein Standard-QSO mit FM und eines in Digital, wärend das Gerät an einer exteren Speisung hängt. Der für Rx und Tx benötigte Strom im wird bei stabiler Spannung aufgezeichnet.
+-----------------
+
+Mythos 2: Digitalfunk hat eine grössere Reichweite als FM.
+
+
+-----------------
+
+Mythos 3: Digitalfunk hat die bessere Sprachqualität bis die Kommunikation plötzlich unerwartet vollständig abbricht.
+
+-----------------
+
+Mythos 4: DMR ist frei von Schwarzfunkern - Da die DMR-ID nur nach einer Registrierung mit der Lizenzurkunde ausgestellt wird, gibt es im DMR keine Schwarzfunker. Das illegale Relaisauftasten ohne Callsign gibt es auch nicht, da jedes mal die DMR-ID mitgeschickt wird. - Anmerkung der Redaktion, das dürfte auch für d-Star gelten, jedoch nicht auf andere Verfahren wie FT8, C4FM, etc. wo jeder ein call eingeben kann.
+
+
+-----------------
+
+Mythos 5: C4FM ist die Digitalbetriebsart welche sich am besten für Amateurfunker eignet - Ad-Hoc und ohne Programmierungsaufwand können sofort weltweit QSO geführt werden.
+
+-----------------
+
+Mythos 6: Digitalfunk ist Internetfunk
+
+Diese Aussage kommt von der vielen über das Internet weltweit vernetzten digitalen Sprachrelais.
+Um diesen Mythos zu verstehen muss zuerst die Sichtweise diskutiert werden werden. Bleiben wir zuerst beim digitalen Relaisfunk. Einige der Digitalrelais sind zusätzlich zum Internet, auch über das Hamnet miteinander verbunden, über die Wahrheit dieser Aussage entscheidet also die eingesetzte Topologie der Relaisanbindung. Da die exklusive HAMNET-Verlinkung in der Praxis eher die Ausnahme ist, scheint dieser Mythos hier wahr zu sein. Wir der Horizont noch weiter geöffnet und es werden auch Digimodes auf KW wie FT8, FreeDV, Rtty, etc. betrachtet, so gehört diese Aussage definitiv ins Reich der Mythen.
+
+-----------------
+
+Mythos 7: AREDN ist kein Funk
+
+-----------------
+
+Mythos 8: FT8 ist keine Funkbetriebsart
+Technisch gesehen wird FT8 drahtlos übertragen und ist somit eine Amateurfunkbetriebsart. 
+
+-----------------
+
+Mythos 9: CW ist eine digitale Betriebsart
+Rein technisch gesehen ja, auch wenn die Baudrate relativ klein ist für moderne Verhältnisse.
+
+-----------------
+
+Mythos 10: "CW ist die einzige richtige Betriebsart"
+Diese Aussage war sicherlich zu Anfangszeiten von professionellen, militärischen und Amateurfunkdiensten noch zutreffend. Mitlerweile gibt es technisch gesehen noch einige weitere Betriebsarten mehr, möglicherweise ist dies noch nicht allen OM aufgefallen.
